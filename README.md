@@ -1,12 +1,10 @@
-# empress-blog Netlify Casper Template  
+# TornHub
 
-This repo is used to generate a new empress-blog with the Casper template using Netlify's template system
+A Torn City Fan Site Project 
 
-If you want to get started right now with a new empress-blog just click the button below
+## release 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/empress/empress-blog-netlify-casper-template)
+Currently the project is in early alpha and will be published once it's fully ready to go. 
 
+TO contribute to the project contact me in torn 
 
-## Technology
-
-If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
