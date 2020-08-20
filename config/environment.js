@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'TORNHUB',
-      description: 'A Torn City Fansite - That Accepts User Generated Articles & is Open Source',
+      title: 'empress-blog',
+      description: 'Static Blog System - Built with Ember',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by ORAN',
+        label: 'Built by Chris Manson',
         route: 'page',
-        id: 'ORAN'
+        id: 'chris-manson'
       }]
     },
 
