@@ -1,7 +1,7 @@
 ---
 name: oran
 id: oran
-image: /images/ghost-icon.png
+image: /images/oranprofile.png
 cover:
 website:
 twitter:
