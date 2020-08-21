@@ -9,7 +9,7 @@ authors:
   - oran
 date: Thr aug 20 2020 17:50:59 GMT+0100
 tags:
-  - getting-started
+  - intro-to-tornhub
 ---
 
 Hello There, Welcome to [TORNHUB](put site url here). Tornhub aims to be an 'entertainment' & News Hybrid Fan site For The Game Torn City. Tornhub currently hosts user generated content of who's accuracy depends solely on the source.
